@@ -1,0 +1,603 @@
+{
+  "category": "HISTORICAL_MYSTERY",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/dyatlov-pass",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "dyatlov-pass",
+    "name": "Dyatlov Pass Incident",
+    "aliases": [
+      {
+        "name": "Dyatlov Pass Mystery",
+        "language": "English",
+        "region": "International"
+      },
+      {
+        "name": "Перевал Дятлова",
+        "language": "Russian",
+        "region": "Russia",
+        "meaning": "Dyatlov Pass"
+      },
+      {
+        "name": "Гибель тургруппы Дятлова",
+        "language": "Russian",
+        "region": "Russia",
+        "meaning": "Death of the Dyatlov Group"
+      }
+    ],
+    "category": "HISTORICAL_MYSTERY",
+    "subcategory": "Unexplained Deaths",
+    "tags": [
+      "historical-mystery",
+      "unexplained-deaths",
+      "soviet-union",
+      "mountaineering",
+      "ural-mountains",
+      "1959",
+      "explained",
+      "avalanche",
+      "cold-case"
+    ],
+    "status": "explained",
+    "description": {
+      "summary": "A 1959 incident in the Ural Mountains where nine experienced Soviet hikers died under mysterious circumstances. The case baffled investigators for decades but was conclusively explained by a 2021 scientific study as a slab avalanche.",
+      "full": "The Dyatlov Pass Incident is one of the most famous unsolved mysteries of the 20th century that has now been explained. In February 1959, nine experienced hikers led by Igor Dyatlov died in the northern Ural Mountains. The group's tent was found torn open from inside, and the bodies were scattered across the mountainside in various states of undress, some with severe internal injuries but no external trauma. For over 60 years, the incident spawned conspiracy theories involving everything from military tests to yetis. However, a comprehensive 2021 study published in Communications Earth & Environment conclusively demonstrated that a rare type of delayed slab avalanche, combined with the severe conditions and panic response, explains all the evidence. This case exemplifies how scientific investigation can solve even the most baffling historical mysteries."
+    },
+    "etymology": {
+      "origin": "Named after Igor Dyatlov, the 23-year-old leader of the hiking expedition",
+      "meaning": "Pass where the Dyatlov group died",
+      "first_use": "1959",
+      "official_name": "Kholat Syakhl (Холат-Сяхыл in Mansi language, meaning 'Dead Mountain')"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "HISTORICAL_MYSTERY",
+      "type": "Natural Disaster",
+      "subtype": "Avalanche Incident",
+      "variant": "Delayed Slab Avalanche",
+      "status": "EXPLAINED"
+    },
+    "related_phenomena": [
+      {
+        "id": "tunguska-event",
+        "name": "Tunguska Event",
+        "relationship": "similar_mystery",
+        "description": "Another Russian mystery later explained by science"
+      },
+      {
+        "id": "mary-celeste",
+        "name": "Mary Celeste",
+        "relationship": "similar_mystery",
+        "description": "Historical mystery of abandoned vessel"
+      }
+    ],
+    "scientific_consensus": {
+      "explanation": "Slab avalanche caused by katabatic winds and tent placement",
+      "confidence": "high",
+      "year_resolved": 2021,
+      "study": "Gaume & Puzrin (2021) in Communications Earth & Environment"
+    }
+  },
+
+  "incident_details": {
+    "date": {
+      "expedition_start": "1959-01-23",
+      "last_known_alive": "1959-02-01",
+      "bodies_discovered": "1959-02-26 to 1959-05-04",
+      "precision": "exact"
+    },
+    "location": {
+      "description": "Kholat Syakhl mountain, Northern Ural Mountains",
+      "country": "Soviet Union (now Russia)",
+      "region": "Sverdlovsk Oblast",
+      "mountain": "Kholat Syakhl (Dead Mountain)",
+      "coordinates": {
+        "latitude": 61.75,
+        "longitude": 59.45,
+        "elevation": 1079,
+        "elevation_unit": "meters",
+        "precision": "approximate"
+      }
+    },
+    "victims": [
+      {
+        "name": "Igor Alekseyevich Dyatlov",
+        "age": 23,
+        "role": "Expedition leader",
+        "education": "Radio engineering student, Ural Polytechnic Institute",
+        "experience": "Highly experienced hiker",
+        "found_date": "1959-02-26",
+        "cause_of_death": "Hypothermia",
+        "injuries": "Minor"
+      },
+      {
+        "name": "Zinaida Alekseyevna Kolmogorova",
+        "age": 22,
+        "role": "Expedition member",
+        "education": "Radio engineering student",
+        "experience": "Experienced hiker",
+        "found_date": "1959-02-26",
+        "cause_of_death": "Hypothermia",
+        "injuries": "Minor"
+      },
+      {
+        "name": "Rustem Vladimirovich Slobodin",
+        "age": 23,
+        "role": "Expedition member",
+        "education": "Engineering student",
+        "experience": "Experienced hiker",
+        "found_date": "1959-02-26",
+        "cause_of_death": "Hypothermia",
+        "injuries": "Skull fracture (non-fatal)"
+      },
+      {
+        "name": "Yuri Nikolayevich Doroshenko",
+        "age": 21,
+        "role": "Expedition member",
+        "education": "Economics student",
+        "experience": "Experienced hiker",
+        "found_date": "1959-02-26",
+        "cause_of_death": "Hypothermia",
+        "injuries": "Burns on hands and feet"
+      },
+      {
+        "name": "Yuri (Georgiy) Alexeyevich Krivonischenko",
+        "age": 23,
+        "role": "Expedition member",
+        "education": "Engineering student",
+        "experience": "Experienced hiker",
+        "found_date": "1959-02-26",
+        "cause_of_death": "Hypothermia",
+        "injuries": "Burns on lower leg"
+      },
+      {
+        "name": "Lyudmila Alexandrovna Dubinina",
+        "age": 20,
+        "role": "Expedition member",
+        "education": "Economics student",
+        "experience": "Experienced hiker",
+        "found_date": "1959-05-04",
+        "cause_of_death": "Hypothermia/Trauma",
+        "injuries": "Fractured ribs, missing tongue and eyes"
+      },
+      {
+        "name": "Alexander Sergeyevich Kolevatov",
+        "age": 24,
+        "role": "Expedition member",
+        "education": "Physics student",
+        "experience": "Experienced hiker",
+        "found_date": "1959-05-04",
+        "cause_of_death": "Hypothermia",
+        "injuries": "Deformed neck"
+      },
+      {
+        "name": "Nikolai Vladimirovich Thibeaux-Brignolles",
+        "age": 23,
+        "role": "Expedition member",
+        "education": "Engineering student",
+        "experience": "Experienced hiker",
+        "found_date": "1959-05-04",
+        "cause_of_death": "Hypothermia/Trauma",
+        "injuries": "Severe skull fracture"
+      },
+      {
+        "name": "Semyon (Alexander) Alekseyevich Zolotaryov",
+        "age": 37,
+        "role": "Expedition member",
+        "education": "Tourism instructor",
+        "experience": "Very experienced hiker",
+        "found_date": "1959-05-04",
+        "cause_of_death": "Hypothermia/Trauma",
+        "injuries": "Fractured ribs, missing eyes"
+      }
+    ],
+    "survivor": {
+      "name": "Yuri Yudin",
+      "age": 21,
+      "reason": "Left expedition on January 28 due to illness (sciatica)",
+      "significance": "Only member to survive; provided crucial testimony"
+    }
+  },
+
+  "timeline": [
+    {
+      "date": "1959-01-23",
+      "event": "Expedition begins",
+      "description": "Ten hikers depart from Sverdlovsk (now Yekaterinburg) for Mount Otorten",
+      "significance": "Start of journey"
+    },
+    {
+      "date": "1959-01-28",
+      "event": "Yuri Yudin leaves group",
+      "description": "Yudin turns back due to illness, becoming the sole survivor",
+      "significance": "Last person to see the group alive"
+    },
+    {
+      "date": "1959-02-01",
+      "event": "Last camp established",
+      "description": "Group sets up tent on slope of Kholat Syakhl",
+      "significance": "Last known location, likely date of deaths"
+    },
+    {
+      "date": "1959-02-12",
+      "event": "Expedition overdue",
+      "description": "Group fails to return as scheduled; concern begins to grow",
+      "significance": "Official search delayed initially"
+    },
+    {
+      "date": "1959-02-20",
+      "event": "Search begins",
+      "description": "Rescue teams and volunteers begin searching",
+      "significance": "Start of investigation"
+    },
+    {
+      "date": "1959-02-26",
+      "event": "Tent discovered",
+      "description": "Search team finds tent torn open from inside, abandoned in organized manner",
+      "significance": "First major evidence found"
+    },
+    {
+      "date": "1959-02-26",
+      "event": "First bodies found",
+      "description": "Two bodies (Doroshenko and Krivonischenko) found under cedar tree, 1.5km from tent",
+      "significance": "Pattern of deaths begins to emerge"
+    },
+    {
+      "date": "1959-02-27 to 1959-03-05",
+      "event": "Three more bodies found",
+      "description": "Dyatlov, Kolmogorova, and Slobodin found between cedar and tent, apparently trying to return",
+      "significance": "Hypothermia deaths documented"
+    },
+    {
+      "date": "1959-05-04",
+      "event": "Final four bodies found",
+      "description": "Remaining bodies found in ravine under 4 meters of snow, with severe injuries",
+      "significance": "Most puzzling injuries discovered"
+    },
+    {
+      "date": "1959-05-28",
+      "event": "Investigation closed",
+      "description": "Soviet authorities close investigation, citing 'compelling unknown force'",
+      "significance": "Official explanation remains vague"
+    },
+    {
+      "date": "1990",
+      "event": "Case files declassified",
+      "description": "Soviet collapse allows public access to investigation materials",
+      "significance": "International interest increases"
+    },
+    {
+      "date": "2019",
+      "event": "Russian investigation reopened",
+      "description": "Russia reopens investigation on 60th anniversary",
+      "significance": "New official inquiry launched"
+    },
+    {
+      "date": "2020-07",
+      "event": "Russian conclusion",
+      "description": "Russian investigation concludes avalanche as cause",
+      "significance": "Official Russian explanation"
+    },
+    {
+      "date": "2021-01-28",
+      "event": "Scientific paper published",
+      "description": "Gaume & Puzrin publish comprehensive study in Communications Earth & Environment",
+      "significance": "Scientific consensus achieved: delayed slab avalanche explained"
+    }
+  ],
+
+  "evidence": {
+    "physical": [
+      {
+        "type": "tent",
+        "description": "Tent torn/cut open from inside, partially collapsed, still standing",
+        "location": "Slope of Kholat Syakhl",
+        "significance": "Indicates rapid evacuation from inside",
+        "scientific_explanation": "Consistent with panic response to avalanche/snow pressure"
+      },
+      {
+        "type": "footprints",
+        "description": "Footprints leading downslope from tent, some barefoot or in socks",
+        "condition": "Well-preserved in snow",
+        "significance": "Shows organized but hurried evacuation",
+        "scientific_explanation": "Immediate escape from perceived danger"
+      },
+      {
+        "type": "clothing",
+        "description": "Some victims in underwear or minimal clothing; some wearing others' clothes",
+        "significance": "Paradoxical undressing and terminal burrowing behavior",
+        "scientific_explanation": "Classic hypothermia symptoms; survivors taking clothes from deceased"
+      },
+      {
+        "type": "injuries",
+        "description": "Four victims with severe chest/skull trauma without external wounds",
+        "medical_findings": "Fractured ribs, skull fractures, internal bleeding",
+        "significance": "Most puzzling aspect",
+        "scientific_explanation": "Consistent with slab avalanche pressure and post-mortem animal activity"
+      },
+      {
+        "type": "fire",
+        "description": "Small fire found under cedar tree where first two bodies discovered",
+        "significance": "Attempted to warm themselves",
+        "scientific_explanation": "Standard survival response"
+      },
+      {
+        "type": "den",
+        "description": "Makeshift den found in ravine with seats made from cedar branches",
+        "significance": "Attempted to create shelter",
+        "scientific_explanation": "Rational survival attempt after abandoning tent"
+      }
+    ],
+    "photographic": [
+      {
+        "type": "expedition photos",
+        "description": "Cameras found at scene contained photos from expedition",
+        "count": "Multiple rolls of film",
+        "content": "Normal expedition photos, last photo shows group setting up tent",
+        "anomalies": "No unusual phenomena captured",
+        "significance": "Documents normal expedition until final camp"
+      }
+    ],
+    "testimonial": [
+      {
+        "source": "Yuri Yudin",
+        "type": "Survivor testimony",
+        "significance": "Only person who spent time with group and survived",
+        "content": "Described group as experienced, well-prepared, and rational"
+      },
+      {
+        "source": "Search team members",
+        "type": "Discovery testimony",
+        "significance": "First-hand accounts of scene",
+        "content": "Described strange positioning and appearance of bodies"
+      }
+    ],
+    "radiological": [
+      {
+        "finding": "Elevated radiation on some clothing",
+        "significance": "Fueled conspiracy theories",
+        "scientific_explanation": "Contamination from Krivonischenko's work at nuclear facility; thorium in lantern mantles; natural background radiation",
+        "debunked": true
+      }
+    ]
+  },
+
+  "theories": {
+    "scientific_consensus": {
+      "name": "Delayed Slab Avalanche",
+      "description": "A small but powerful slab avalanche, delayed by 9-13 hours after tent placement, struck the tent during the night. The specific snow conditions, slope angle, and tent cutting into the snowpack created perfect conditions for this rare phenomenon.",
+      "proponents": ["Johan Gaume", "Alexander Puzrin"],
+      "publication": "Communications Earth & Environment (2021)",
+      "evidence": [
+        "Computer modeling matches injury patterns",
+        "Explains delay between tent setup and incident",
+        "Accounts for all physical evidence",
+        "Consistent with meteorological data",
+        "Explains both immediate deaths and prolonged survival",
+        "Supported by Russian 2020 investigation"
+      ],
+      "mechanism": "Katabatic winds created dense snow slab above tent. Cutting tent into snow destabilized slope. 9-13 hour delay before collapse. Avalanche caused immediate injuries to some, forced evacuation. Group separated in darkness and storm. Hypothermia caused most deaths.",
+      "consensus_year": 2021,
+      "acceptance": "Widely accepted by scientific community and official investigations"
+    },
+    "paranormal": [
+      {
+        "name": "Yeti/Abominable Snowman",
+        "description": "Group attacked by wild creature",
+        "debunked": true,
+        "debunking": "No evidence of external attacks; injuries consistent with avalanche; no tracks or physical evidence of creature"
+      },
+      {
+        "name": "UFO/Alien encounter",
+        "description": "Extraterrestrial involvement based on alleged light phenomena",
+        "debunked": true,
+        "debunking": "Light phenomena likely from R-7 rocket tests in area; no credible UFO evidence; radiation levels normal or explained"
+      }
+    ],
+    "conspiracy": [
+      {
+        "name": "Military weapons test",
+        "description": "Secret Soviet weapons test killed the group",
+        "debunked": true,
+        "debunking": "No evidence of weapons; injuries inconsistent with explosions or weapons; no classified records support this"
+      },
+      {
+        "name": "Infrasound",
+        "description": "Natural infrasound from wind caused panic and irrational behavior",
+        "debunked": true,
+        "debunking": "While infrasound can occur, it doesn't explain physical injuries or evidence pattern; avalanche explanation more comprehensive"
+      },
+      {
+        "name": "Mansi attack",
+        "description": "Indigenous Mansi people attacked the group for trespassing on sacred ground",
+        "debunked": true,
+        "debunking": "Mansi cooperated with search; no evidence of violence; injuries inconsistent with human attack; deeply offensive theory"
+      }
+    ],
+    "natural_explanations": [
+      {
+        "name": "Simple hypothermia",
+        "description": "Group got lost or injured and died of exposure",
+        "partial": true,
+        "notes": "Hypothermia was cause of death for most, but doesn't explain why they left tent or source of injuries"
+      },
+      {
+        "name": "Large avalanche",
+        "description": "Traditional avalanche buried tent",
+        "rejected": "Tent still standing; no massive snow deposit; injuries don't match large avalanche pattern",
+        "evolution": "Evolved into slab avalanche theory which does explain evidence"
+      }
+    ]
+  },
+
+  "scientific_explanation": {
+    "summary": "The Dyatlov Pass incident is conclusively explained by a delayed slab avalanche combined with severe weather conditions and hypothermia.",
+    "detailed_mechanism": {
+      "phase_1": {
+        "name": "Avalanche trigger",
+        "timeline": "February 1, evening/night",
+        "events": [
+          "Group cuts tent into snow on slope (against normal practice)",
+          "Katabatic winds create dense snow slab above tent",
+          "Snow accumulates over 9-13 hours",
+          "Slab releases in delayed collapse"
+        ]
+      },
+      "phase_2": {
+        "name": "Immediate response",
+        "timeline": "February 1-2, night",
+        "events": [
+          "Avalanche strikes tent with localized force",
+          "Some members receive severe chest/head trauma",
+          "Group cuts way out of tent from inside",
+          "Evacuation in darkness and severe cold (-25 to -30°C)",
+          "Unable to return for proper clothing or equipment"
+        ]
+      },
+      "phase_3": {
+        "name": "Survival attempts",
+        "timeline": "February 2, early hours",
+        "events": [
+          "Group reaches cedar tree 1.5km downslope",
+          "Attempts to start fire (successful)",
+          "Two members (Doroshenko, Krivonischenko) succumb to hypothermia at fire",
+          "Others take clothing from deceased",
+          "Some attempt to return to tent but collapse",
+          "Four survivors create den in ravine but eventually succumb"
+        ]
+      }
+    },
+    "key_factors": [
+      "Rare slab avalanche type (small but powerful)",
+      "Delayed collapse (9-13 hours after trigger)",
+      "Severe weather (-25 to -30°C)",
+      "High winds (katabatic winds)",
+      "Darkness during incident",
+      "Distance from tent prevented return",
+      "Hypothermia progression",
+      "Paradoxical undressing (hypothermia symptom)",
+      "Post-mortem scavenging by animals (explains missing soft tissue)"
+    ],
+    "2021_study_details": {
+      "authors": ["Johan Gaume", "Alexander Puzrin"],
+      "institution": "ETH Zurich and others",
+      "journal": "Communications Earth & Environment",
+      "publication_date": "2021-01-28",
+      "methodology": "Computer modeling using snow mechanics and avalanche dynamics",
+      "key_findings": [
+        "Slab avalanche model reproduces observed injuries",
+        "Delay mechanism explained by snow sintering",
+        "Tent placement created unstable condition",
+        "Wind loading gradually increased slab stress",
+        "Critical point reached hours after tent setup"
+      ],
+      "validation": "Model predictions match forensic evidence from 1959 investigation"
+    }
+  },
+
+  "cultural_impact": {
+    "media": [
+      {
+        "type": "book",
+        "title": "Dead Mountain: The Untold True Story of the Dyatlov Pass Incident",
+        "author": "Donnie Eichar",
+        "year": 2013,
+        "impact": "Popular English-language investigation"
+      },
+      {
+        "type": "film",
+        "title": "Devil's Pass (The Dyatlov Pass Incident)",
+        "year": 2013,
+        "genre": "Horror",
+        "impact": "Fictionalized paranormal interpretation"
+      },
+      {
+        "type": "documentary",
+        "title": "Mountain of the Dead (various)",
+        "impact": "Multiple documentaries exploring the mystery"
+      }
+    ],
+    "influence": "One of the most famous unsolved mysteries of the 20th century; now serves as example of how science can solve historical mysteries",
+    "legacy": "Case study in avalanche safety, hypothermia, and importance of proper mountaineering practices"
+  },
+
+  "lessons_learned": {
+    "mountaineering": [
+      "Never cut tent into snow slope",
+      "Choose safe campsite away from avalanche terrain",
+      "Maintain gear accessibility for emergencies",
+      "Group should stay together in crisis",
+      "Importance of proper clothing even for short distances"
+    ],
+    "investigation": [
+      "Value of long-term scientific investigation",
+      "Importance of preserving evidence",
+      "Modern technology can solve historical mysteries",
+      "Avoid speculation without evidence"
+    ]
+  },
+
+  "current_status": {
+    "official": "Explained - Delayed slab avalanche",
+    "scientific_consensus": "High confidence in avalanche explanation",
+    "popular_understanding": "Growing acceptance of scientific explanation",
+    "memorial": "Memorial plaque installed at Dyatlov Pass; annual commemorations held"
+  },
+
+  "sources": [
+    {
+      "id": "gaume-puzrin-2021",
+      "type": "journal_article",
+      "title": "Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959",
+      "authors": ["Johan Gaume", "Alexander M. Puzrin"],
+      "journal": "Communications Earth & Environment",
+      "volume": "2",
+      "article": "10",
+      "date": "2021-01-28",
+      "doi": "10.1038/s43247-020-00081-8",
+      "significance": "Definitive scientific explanation"
+    },
+    {
+      "id": "eichar-2013",
+      "type": "book",
+      "title": "Dead Mountain: The Untold True Story of the Dyatlov Pass Incident",
+      "authors": ["Donnie Eichar"],
+      "publication": "Chronicle Books",
+      "date": "2013",
+      "isbn": "978-1452112732"
+    },
+    {
+      "id": "soviet-investigation-1959",
+      "type": "government_document",
+      "title": "Criminal Case No. 1-59 Investigation Materials",
+      "authors": ["Lev Ivanov (Lead Investigator)"],
+      "date": "1959",
+      "significance": "Original Soviet investigation documents"
+    },
+    {
+      "id": "russian-investigation-2020",
+      "type": "government_document",
+      "title": "Russian Prosecutor General Investigation Report",
+      "date": "2020-07",
+      "significance": "Modern Russian official conclusion: avalanche"
+    }
+  ]
+}
