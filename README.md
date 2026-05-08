@@ -1,601 +1,213 @@
 # Dyatlov Pass Incident
 
+> The 1959 deaths of nine experienced Soviet ski-hikers on the eastern slope of Kholat Syakhl in the northern Urals, long unexplained and now most plausibly attributed to a small delayed slab avalanche.
+
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-1-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
+
+---
+## Quick Reference
+
+| Property | Value |
+|---|---|
+| **ID** | `dyatlov-pass` |
+| **Category** | LOCATION |
+| **Subcategory** | Historical mystery / unexplained deaths |
+| **First recorded** | 1959-01-23 |
+| **Primary range** | The incident occurred on the eastern shoulder of Kholat Syakhl in the Northern Urals, in what was then Sverdlovsk Oblast (RSFSR, Soviet Union) |
+| **Status** | documented |
+
+---
 ## Overview
 
-The Dyatlov Pass Incident is one of the most famous mysteries of the 20th century—now conclusively solved. On the night of February 1-2, 1959, nine experienced Soviet hikers died under mysterious circumstances in the northern Ural Mountains. For over 60 years, the bizarre details spawned countless theories ranging from avalanches to military tests to paranormal phenomena. In 2021, a comprehensive scientific study published in *Communications Earth & Environment* definitively explained the tragedy: a rare delayed slab avalanche, combined with extreme cold and human panic response, accounts for all the evidence.
+On the night of 1–2 February 1959, nine ski-hikers from the Ural Polytechnical Institute, led by 23-year-old Igor Dyatlov, died on the eastern slope of Kholat Syakhl ('Dead Mountain' in Mansi) in the northern Ural mountains of the Soviet Union. The group had cut their tent open from the inside and fled, partially undressed, into −25 °C / −30 °C cold. All nine were eventually found dead; some had hypothermia injuries, several had severe but unbloodied internal trauma, and one had eyes and tongue missing (consistent with post-mortem soft-tissue scavenging). The Soviet investigation closed in 1959 attributing death to a 'compelling natural force'. The case was reopened by the Russian Prosecutor General's Office in 2019 and concluded in 2020 to attribute deaths to an avalanche. A 2021 paper in 'Communications Earth & Environment' by Johan Gaume (EPFL) and Alexander Puzrin (ETH Zurich) modelled how a small, delayed slab avalanche on the comparatively gentle slope could produce the observed injuries — a model now treated as the leading scientific explanation. Many alternative theories — military testing, infrasound-induced panic, Mansi attack, paranormal phenomena, and the 'Yeti' / Menk hypothesis — remain culturally prominent.
 
-**Classification:** Historical Mystery (EXPLAINED)  
-**Status:** Resolved through scientific investigation  
-**Scientific Consensus:** Delayed slab avalanche (2021)  
-**Location:** Kholat Syakhl, Northern Ural Mountains, Russia  
-**Date:** February 1-2, 1959  
-**Casualties:** 9 deaths (1 survivor who left before incident)
+---
+## Names & Aliases
+
+| Name | Origin | Meaning |
+|---|---|---|
+| Pereval Dyatlova | Russian | Dyatlov Pass |
+| Death Mountain incident | Western media | after Kholat Syakhl, glossed locally as 'Dead Mountain' |
+
+## Etymology
+
+- **Origin**: The pass between Kholat Syakhl and the neighbouring Mt. Otorten was officially named Pereval Dyatlova (Dyatlov Pass) in honour of expedition leader Igor Dyatlov following the incident.
+- **Meaning**: 'Dyatlov Pass' (Russian: Перевал Дятлова) — pass-of-Dyatlov.
+- **First use**: Soviet topographic and journalistic usage from 1959 onward.
+
+---
+## Related Phenomena
+
+- [Bennington Triangle](../bennington-triangle/) — _similar_: Cluster of unexplained 20th-century disappearances in Vermont
+- [Tunguska Event](../tunguska-event/) — _related_: Other major Russian / Soviet unsolved-at-the-time scientific event
+- [Almas](../almas/) — _related_: Eurasian wild-man cryptid sometimes invoked in Yeti / Menk hypotheses for the incident
+
+---
+## Physical Description
+
+- **Morphology**: Not applicable: this entry describes an event and location rather than a creature.
+
+## Behavior
+
+- **Activity**: unknown
+- **Disposition**: unknown
+- **Habitat**: northern Ural mountains, subarctic forest-tundra ecotone
+
+---
+## Distribution
+
+The incident occurred on the eastern shoulder of Kholat Syakhl in the Northern Urals, in what was then Sverdlovsk Oblast (RSFSR, Soviet Union); now in Sverdlovsk Oblast, Russian Federation.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Kholat Syakhl | Sverdlovsk Oblast / Northern Urals, Russia |  | 1959 |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1959-01-23 | The Dyatlov group leaves Sverdlovsk by train, beginning a Category-III expedition planned to reach Mt. Otorten | Start of the expedition |
+| 1959-01-28 | Group member Yuri Yudin turns back due to illness, reducing the party to nine | Yudin becomes the only survivor and a key later witness |
+| 1959-02-01 | The group establishes camp on the eastern slope of Kholat Syakhl rather than retreating to the forested Auspiya valley | Last day on which the group is known to have been alive |
+| 1959-02-26 | Search party discovers the cut tent on Kholat Syakhl | First physical evidence of the incident |
+| 1959-05-04 | The final four bodies are recovered from a ravine ~75 m from the cedar tree where the first two were found | Recovery of the most severely injured victims (Dubinina, Thibeaux-Brignolles, Zolotaryov, Kolevatov) |
+| 1959-05-28 | Soviet criminal case closed with the conclusion that the deaths were caused by a 'compelling natural force' | Original Soviet verdict |
+| 2019-02-01 | Russian Prosecutor General's Office reopens the case | First formal post-Soviet re-investigation |
+| 2020-07-11 | Russian re-investigation concludes that the cause was an avalanche followed by hypothermia and disorientation | Official modern Russian verdict |
+| 2021-01-28 | Gaume and Puzrin publish 'Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959' in 'Communications Earth & Environment' | Quantitative model showing how a small delayed slab avalanche could account for the observed tent damage and injuries |
+
+---
+## Notable Sightings
+
+### Dyatlov Pass Incident ⭐
+> **Date**: 1959-02-01  
+> **Location**: Eastern slope of Kholat Syakhl in the Northern Ural mountains, ~1,700 m from the pass later named after Igor Dyatlov  
+> **Witnesses**: 0 (No surviving witnesses; reconstruction is from camp evidence, photographs, autopsies, and the testimony of search teams)  
+> **Evidence**: Cut and partially collapsed tent; Recovered camera film and diaries; Autopsy reports of all nine victims; Footprint trail descending the slope from the tent  
+Nine ski-hikers (Igor Dyatlov, Yuri Doroshenko, Lyudmila Dubinina, Yuri Krivonischenko, Alexander Kolevatov, Zinaida Kolmogorova, Rustem Slobodin, Nikolai Thibeaux-Brignolles, and Semyon Zolotaryov) cut their way out of their tent from inside and fled, partially clothed and barefoot, down the slope toward a cedar grove ~1.5 km below. Two were found near the cedar, three between the cedar and the tent, and four were eventually recovered from a snow-filled ravine. Several had suffered severe but unbloodied internal trauma; soft-tissue loss in some cases is consistent with post-mortem scavenging.
+**Credibility**: high — The fact of the deaths is fully verified; specific causal mechanism remains contested in popular culture but is best explained scientifically by a delayed slab avalanche.
+**Sources**: Russian Prosecutor General's Office (2020); Gaume, J. & Puzrin, A. M. (2021), Communications Earth & Environment
 
 ---
 
-## Table of Contents
 
-- [The Incident](#the-incident)
-- [The Victims](#the-victims)
-- [Timeline of Events](#timeline-of-events)
-- [The Discovery](#the-discovery)
-- [Physical Evidence](#physical-evidence)
-- [The Mystery Elements](#the-mystery-elements)
-- [Decades of Theories](#decades-of-theories)
-- [The Scientific Solution (2021)](#the-scientific-solution-2021)
-- [How the Avalanche Theory Explains Everything](#how-the-avalanche-theory-explains-everything)
-- [Debunked Conspiracy Theories](#debunked-conspiracy-theories)
-- [Cultural Impact](#cultural-impact)
-- [Lessons Learned](#lessons-learned)
-- [Current Site Status](#current-site-status)
-- [Conclusion](#conclusion)
-- [Further Reading](#further-reading)
+## Evidence
 
----
+### Physical
 
-## The Incident
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Dyatlov group tent | 1959-02-26 | The hikers' canvas tent, found cut from the inside in nine places, partially collapsed under windblown snow on the eastern slope of Kholat Syakhl. | verified |
+| Bodies of the nine hikers | 1959-02-26 | Bodies recovered between February and May 1959; injuries included hypothermia, fractured skulls, broken ribs, and soft-tissue loss. | verified |
+### Photographic
 
-### Background
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Recovered camera film | 1959-02 | Photographs taken by group members on the approach march and at the campsite, recovered with the bodies and tent. | verified |
+### Trace
 
-In January 1959, a group of ten experienced hikers from the Ural Polytechnic Institute set out on an expedition to reach Otorten Mountain in the Northern Urals. The trek was categorized as "Category III"—the most difficult classification in Soviet mountaineering. All participants were experienced outdoor enthusiasts, with Igor Dyatlov, a 23-year-old radio engineering student, as the expedition leader.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Footprint trail | 1959-02 | Footprint trail of eight or nine people descending from the tent toward the forest below, frozen into the snow. | verified |
+### Documentary
 
-### The Route
-
-The group planned a 14-day ski expedition covering approximately 300 kilometers through some of the most remote wilderness in the Soviet Union. Their route would take them north to Otorten Mountain and back.
-
-### The Group
-
-**Original Ten Members:**
-- Igor Dyatlov (23) - Leader
-- Zinaida Kolmogorova (22)
-- Rustem Slobodin (23)
-- Yuri Doroshenko (21)
-- Yuri Krivonischenko (23)
-- Lyudmila Dubinina (20)
-- Alexander Kolevatov (24)
-- Nikolai Thibeaux-Brignolles (23)
-- Semyon Zolotaryov (37)
-- Yuri Yudin (21) - **Left group on January 28 due to illness; sole survivor**
-
-All were students or graduates of the Ural Polytechnic Institute, except Zolotaryov, who was a World War II veteran and tourism instructor who joined at the last minute.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident | 2021-01-28 | Peer-reviewed paper modelling how a small delayed slab avalanche on the comparatively low-angle Kholat Syakhl slope could produce the tent damage and human injuries observed. | verified |
 
 ---
+## Theories & Explanations
 
-## The Victims
+### Paranormal / Cryptozoological
 
-### The Nine Who Died
+**Yeti / Menk attack** _(Discovery Channel programming (2014))_
 
-**First Group Found (February 26, 1959):**
+An unidentified hominid (the Mansi 'Menk', sometimes equated with the Yeti) is suggested to have attacked the camp, prompting flight.
 
-1. **Yuri Doroshenko** (21) - Found under cedar tree, hypothermia
-2. **Yuri Krivonischenko** (23) - Found under cedar tree, hypothermia
-3. **Igor Dyatlov** (23) - Found 300m from tent, hypothermia
-4. **Zinaida Kolmogorova** (22) - Found 630m from tent, hypothermia
-5. **Rustem Slobodin** (23) - Found 480m from tent, hypothermia
+**UFO / unknown aerial phenomenon** _(Russian conspiracy literature)_
 
-**Second Group Found (May 4, 1959):**
+Reports of 'orange spheres' over the Northern Urals in February 1959 from other expeditions are taken as evidence of a paranormal cause.
 
-6. **Lyudmila Dubinina** (20) - Found in ravine, severe trauma and hypothermia
-7. **Semyon Zolotaryov** (37) - Found in ravine, severe trauma and hypothermia
-8. **Nikolai Thibeaux-Brignolles** (23) - Found in ravine, severe head trauma
-9. **Alexander Kolevatov** (24) - Found in ravine, hypothermia
+### Scientific
 
-### The Sole Survivor
+**Delayed slab avalanche (Gaume & Puzrin, 2021)** _(Johan Gaume (EPFL), Alexander Puzrin (ETH Zürich), Russian Prosecutor General's Office (2020))_
 
-**Yuri Yudin** (1937-2013)
+A small slab of windblown snow, stressed by katabatic winds and the cut into the slope made for the tent, released several hours after the hikers settled in, deformed the tent and caused severe but unbloodied trauma. Surviving members fled toward the forest in disorientation and succumbed to hypothermia.
 
-Yudin left the expedition on January 28, 1959, due to severe back pain (sciatica), just three days before the tragedy. He spent the rest of his life seeking answers to what happened to his friends. In interviews, he consistently rejected paranormal explanations and believed in natural causes. He died in 2013 at age 75, eight years before the definitive scientific explanation was published.
+**Katabatic wind / infrasound panic** _(Donnie Eichar (in 'Dead Mountain', 2013))_
 
----
+Strong katabatic winds funnelled by Kholat Syakhl's geometry produced infrasound that disoriented the campers and triggered panicked evacuation.
 
-## Timeline of Events
+**Hypothermia and paradoxical undressing** _(Forensic pathologists post-1959)_
 
-### January 1959
+Several decedents removed clothing (paradoxical undressing) consistent with severe hypothermia, accounting for the partial undress of bodies.
 
-**January 23:** Expedition departs Sverdlovsk (now Yekaterinburg).
+### Skeptical
 
-**January 25:** Group begins hiking from Vizhai, the last inhabited settlement.
+**No paranormal cause required** _(Mainstream scientific consensus, Russian Prosecutor General's Office (2020))_
 
-**January 28:** Yuri Yudin leaves the group due to illness, becoming the sole survivor.
+All major features of the case (cut tent, partial undress, internal trauma, soft-tissue loss) are individually explained by ordinary winter mountain mechanisms; the persistence of paranormal narratives reflects Cold War secrecy and the case's dramatic appeal rather than evidentiary need.
 
-**January 31:** Group begins ascending toward Kholat Syakhl (Dead Mountain).
 
-### February 1959
+## Indigenous Perspectives
 
-**February 1:** Group establishes final camp on the slopes of Kholat Syakhl. They cache supplies and set up tent on an exposed slope.
+> ⚠️ **Be cautious not to recycle the 1959-era 'Mansi attack' theory, which was investigated and dismissed.**
 
-**February 1-2 (Night):** The incident occurs:
-- Delayed slab avalanche strikes tent approximately 9-13 hours after setup
-- Group evacuates rapidly, cutting tent from inside
-- Flee 1.5 km downslope in inadequate clothing
-- Reach cedar tree at forest edge
-- Attempt to start fire and survive
+**Cultures**: Mansi (Vogul)
 
-**February 2-12:** Bodies remain undiscovered in remote wilderness.
+Kholat Syakhl, glossed in Russian-language sources as 'Dead Mountain', is a feature of Mansi territory; the modern paranormal narrative around the pass should not be conflated with Mansi religious belief.
 
-**February 12:** Expedition officially overdue.
+_Guidelines: Treat Mansi cultural information as belonging to Mansi people; avoid speculative ethnographic claims._
 
-**February 20:** Search operation begins.
+## Popular Culture
 
-**February 26:** Search team discovers tent torn open from inside. First five bodies found.
+**Literature**: 'Dead Mountain: The Untold True Story of the Dyatlov Pass Incident' — Donnie Eichar (2013); 'Mountain of the Dead: The Dyatlov Pass Incident' — Keith McCloskey (2013); '1959: Dyatlov Pass' / 'Перевал Дятлова' — Anna Matveyeva (Russian, 2000)
 
-**May 4:** Final four bodies discovered under 4 meters of snow in ravine, showing severe trauma.
+**Film / TV**: 'The Dyatlov Pass Incident' / 'Devil's Pass' — Renny Harlin (2013); 'Dyatlov Pass' — Russian TNT miniseries (2020)
 
-**May 28, 1959:** Soviet authorities close investigation, citing death by "compelling unknown force."
+**Games**: 'Kholat' — IMGN.PRO (2015), psychological-horror video game set on Kholat Syakhl
 
-### Modern Resolution
-
-**1990:** Case files declassified after Soviet collapse.
-
-**2019:** Russian government reopens investigation on 60th anniversary.
-
-**July 2020:** Russian Prosecutor General concludes avalanche was cause.
-
-**January 28, 2021:** Gaume and Puzrin publish comprehensive study in *Communications Earth & Environment*, definitively explaining incident as delayed slab avalanche.
+**Other**: Annual memorial expeditions organised by the Dyatlov Memorial Foundation in Yekaterinburg; Dyatlov Group memorial at Mikhailovskoye Cemetery, Yekaterinburg
 
 ---
+## Research
 
-## The Discovery
+### Researchers
 
-### The Search
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Lev Ivanov | Soviet Prosecutor's Office, Sverdlovsk Oblast | Lead investigator of the original 1959 Soviet criminal case | 1959 |
+| Yury Kuntsevich | Dyatlov Memorial Foundation, Yekaterinburg | Long-term steward of case material and primary advocate for re-investigation | 1990s–2020s |
+| Donnie Eichar | Independent journalist / filmmaker | Author of 'Dead Mountain' (2013); proposed the katabatic-wind / infrasound hypothesis | 2010s |
+| Johan Gaume | EPFL (snow and avalanche simulation) | Co-author of the 2021 slab-avalanche model paper | 2018–2021 |
+| Alexander Puzrin | ETH Zürich (geotechnical engineering) | Co-author of the 2021 slab-avalanche model paper | 2018–2021 |
 
-When the Dyatlov group failed to return by February 12, search operations began on February 20, involving military personnel, police, volunteer students, and Mansi hunters.
+### Organizations
 
-### Finding the Tent (February 26)
+- [Dyatlov Memorial Foundation](https://dyatlovpass.com) — Archival, memorial, and re-investigation work centred in Yekaterinburg
+- [Russian Prosecutor General's Office](https://www.epp.genproc.gov.ru) — Official re-investigation 2019–2020
 
-The tent was found on the slope of Kholat Syakhl:
-- Torn/cut open from the **inside**
-- Partially collapsed but still standing
-- Most supplies, food, and warm clothing left inside
-- Boots and winter gear abandoned
-- No signs of external attack
-- Well-preserved footprints leading downslope
-
-### The Footprints
-
-Eight or nine sets of footprints were visible:
-- Some barefoot, some in socks, some in light footwear
-- Orderly walking pattern, not running
-- Straight line toward forest, approximately 1.5 km
-- No other human or animal tracks
-
-### The Bodies
-
-**First Five (February 26):**
-- Two found under cedar tree with evidence of fire
-- Three found between cedar and tent, apparently trying to return
-- All died of hypothermia
-- Minimal injuries
-
-**Final Four (May 4):**
-- Found in ravine under 4 meters of snow
-- Severe internal injuries without corresponding external trauma
-- Better dressed (had taken clothes from deceased)
-- Bodies in running water for months
-- Missing soft tissue (eyes, tongue) from decomposition and scavenging
+Continuing scientific work on the snow-mechanics model and on the recovered case file; ongoing publication and amateur investigation through the Dyatlov Memorial Foundation.
 
 ---
+## Sources
 
-## Physical Evidence
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### The Tent
 
-- Cut from inside (standard emergency evacuation)
-- Securely anchored, still standing
-- Contents organized and intact
-- Located on exposed slope (poor choice for avalanche risk)
+## How to Report a Sighting
 
-### Clothing and Personal Effects
-
-- Some victims nearly naked (paradoxical undressing from hypothermia)
-- Others wore multiple layers, including clothes from deceased
-- Evidence of rational survival decisions
-- Minor radioactivity on some clothing (explained by workplace contamination and lantern mantles)
-
-### Injuries
-
-**Hypothermia Deaths (5 victims):**
-- Minimal trauma
-- Classic cold exposure symptoms
-- One minor skull fracture (non-fatal)
-
-**Trauma Deaths (4 victims):**
-- Severe internal injuries without external wounds
-- Fractured ribs, skull fractures
-- Pattern consistent with compression from snow slab
-- Medical examiners compared force to car crash
-
-### Missing Tissue
-
-- Eyes and tongue missing from two victims
-- Explained by 3 months of decomposition in water
-- Normal post-mortem scavenging by small animals
-- Not evidence of violence or unknown force
-
-### Cameras and Photos
-
-- Three cameras recovered
-- Photos show normal expedition activities
-- Last frames show tent setup
-- No anomalous phenomena recorded
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
+## License
 
-## The Mystery Elements
-
-For decades, several aspects seemed inexplicable:
-
-### 1. Why Leave the Tent?
-
-**The Mystery:** Experienced mountaineers fled into lethal cold, abandoning gear.
-
-**The Solution:** Slab avalanche created immediate danger of burial. Evacuation was rational given circumstances.
-
-### 2. Unusual Camp Location
-
-**The Mystery:** Camped on exposed slope instead of sheltered forest.
-
-**The Solution:** Likely slightly off-course, chose to maintain altitude. Poor decision, but understandable.
-
-### 3. Severe Internal Injuries
-
-**The Mystery:** Chest and head trauma without external wounds, compared to car crash force.
-
-**The Solution:** Slab avalanche pressure creates exactly this pattern—internal force without external marks, like a seat belt injury.
-
-### 4. The Radiation
-
-**The Mystery:** Elevated radiation on some clothing.
-
-**The Solution:** 
-- Krivonischenko worked at Mayak nuclear facility (workplace contamination)
-- Thorium in camping lantern mantles
-- Not dangerous levels
-- Unrelated to incident
-
-### 5. Strange Lights
-
-**The Mystery:** Witnesses reported lights in sky.
-
-**The Solution:**
-- R-7 rocket tests from Baikonur visible for hundreds of kilometers
-- Multiple launches in late January/early February 1959
-- Coincidental to avalanche
-
-### 6. "Unknown Compelling Force"
-
-**The Mystery:** Soviet conclusion sounded mysterious.
-
-**The Context:**
-- 1959 technology and knowledge limitations
-- No avalanche expertise on investigation team
-- Vague bureaucratic language, not evidence of paranormal
-- Modern science provides answer they couldn't
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-## Decades of Theories
-
-From 1959 to 2021, the incident spawned hundreds of theories:
-
-### Natural Explanations
-
-1. **Traditional avalanche** - Later refined to slab avalanche
-2. **Hypothermia** - Part of cause but doesn't explain initiation
-3. **Katabatic wind** - Contributed but not sole cause
-4. **Infrasound panic** - Speculative, doesn't explain injuries
-
-### Military/Government
-
-1. **Weapons test** - No evidence, declassified records show none
-2. **Parachute mine** - No explosion debris
-3. **Government elimination** - No motive, civilians in search
-
-### Paranormal
-
-1. **Yeti attack** - No tracks, injuries don't match, offensive myth
-2. **UFO** - Lights explained by rockets, no evidence
-3. **Ball lightning** - No electrical damage
-
-### Conspiracy
-
-1. **Cover-up** - Vague conclusion reflected genuine 1959 uncertainty
-2. **Mansi attack** - Offensive, no evidence, injuries don't match
-
-All thoroughly debunked by 2021 scientific study.
-
----
-
-## The Scientific Solution (2021)
-
-### The Breakthrough Study
-
-On January 28, 2021, scientists Johan Gaume and Alexander Puzrin published "Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959" in *Communications Earth & Environment*.
-
-### The Delayed Slab Avalanche Theory
-
-**What Happened:**
-
-1. **Tent Placement:** Group cut into slope to create flat platform, destabilizing snow above.
-
-2. **Snow Loading:** Katabatic winds deposited and compressed additional snow over 9-13 hours.
-
-3. **Slab Formation:** Cut edges and new snow sintered (bonded), creating dense slab.
-
-4. **Critical Point:** After 9-13 hours, slab reached critical stress and fractured.
-
-5. **Sudden Release:** Relatively small slab (5m x 15-20m) collapsed onto tent with tremendous localized force.
-
-6. **Immediate Response:** Crushing pressure, possible injuries, fear of burial forced evacuation.
-
-### The Computer Modeling
-
-Using Disney's Material Point Method (advanced simulation):
-- Reproduced injuries matching forensic evidence
-- Showed small slab could generate sufficient force
-- Demonstrated delay mechanism through snow sintering
-- Validated by comparison with known avalanche injuries
-
-### Why So Rare
-
-This combination might occur once in 100-10,000 similar situations:
-- Small slab sufficient to injure but not bury
-- Nighttime occurrence
-- 9-13 hour delay
-- Specific snow conditions
-- Progressive wind loading
-- Marginal avalanche terrain
-
-### Validation
-
-- **2020 Russian Investigation:** Also concluded avalanche
-- **Independent Experts:** Multiple avalanche researchers confirmed
-- **Occam's Razor:** Simplest explanation fitting all facts
-
----
-
-## How the Avalanche Theory Explains Everything
-
-### Complete Sequence
-
-**Phase 1: Setup (Feb 1, Afternoon/Evening)**
-- Group camps on slope (poor choice)
-- Cut into snow for level platform
-- Wind begins loading snow above
-
-**Phase 2: The Delay (9-13 Hours)**
-- Wind deposits additional snow
-- Slab forms and strengthens
-- Stress increases gradually
-- Group sleeps unaware
-
-**Phase 3: The Avalanche (Feb 2, Night ~2-4 AM)**
-- Slab releases onto tent
-- Localized crushing pressure
-- 3-4 victims receive severe trauma
-- Others experience fear and urgency
-- Immediate evacuation necessary
-
-**Phase 4: Evacuation (Feb 2, Early Morning)**
-- Cut out of tent (standard practice)
-- Walk 1.5 km to forest line
-- Injuries, darkness, extreme cold prevent return
-- Reach cedar tree
-- Start fire
-- Doroshenko and Krivonischenko succumb at fire
-
-**Phase 5: Group Fractures**
-- Three attempt return to tent, all collapse from hypothermia
-- Four most injured create den in ravine
-- Take clothes from deceased
-- Eventually all succumb to cold and injuries
-
-**Phase 6: Aftermath (Feb-May)**
-- Bodies remain exposed for months
-- Natural decomposition and scavenging
-- Spring thaw enables discovery
-
----
-
-## Debunked Conspiracy Theories
-
-### Radiation
-**Verdict: DEBUNKED**
-- Workplace contamination from nuclear facility
-- Lantern thorium
-- Not dangerous levels
-- Unrelated to deaths
-
-### UFOs
-**Verdict: DEBUNKED**
-- R-7 rocket tests explain lights
-- No evidence of extraterrestrial involvement
-- Coincidental sightings
-
-### Military Weapons
-**Verdict: DEBUNKED**
-- No tests in area
-- Injuries don't match any weapon
-- Declassified records show nothing
-
-### Yeti/Creature
-**Verdict: DEBUNKED**
-- No tracks
-- Injuries don't match attack
-- Offensive myth
-
-### Infrasound
-**Verdict: DEBUNKED**
-- Doesn't explain injuries
-- Evacuation was organized
-- Speculative
-
-### Mansi Attack
-**Verdict: DEBUNKED and OFFENSIVE**
-- Racist stereotyping
-- No evidence
-- Injuries don't match
-- Mansi cooperated with search
-
-### Government Cover-Up
-**Verdict: DEBUNKED**
-- Genuine 1959 uncertainty
-- Files declassified
-- Modern investigation reached same conclusion
-
----
-
-## Cultural Impact
-
-### Media
-
-**Books:**
-- "Dead Mountain" by Donnie Eichar (2013) - Excellent investigation
-- Numerous Russian and international titles
-
-**Films:**
-- "Devil's Pass" (2013) - Horror interpretation
-- Multiple documentaries
-
-**Internet:**
-- Thousands of articles, videos, podcasts
-- Reddit threads, Wikipedia translations
-- Example of "unsolvable mystery" until 2021
-
-### Educational Value
-
-- Forensic investigation case study
-- Avalanche safety lessons
-- Hypothermia progression study
-- Example of scientific method solving mysteries
-- Misinformation study
-
----
-
-## Lessons Learned
-
-### Mountaineering Safety
-
-1. Choose safe campsites away from avalanche terrain
-2. Never compromise safety for convenience
-3. Cutting into slopes increases avalanche risk
-4. Keep emergency gear accessible
-5. Understand katabatic wind effects
-
-### Investigation
-
-1. Specialized expertise crucial
-2. Technology advances enable solutions
-3. Preserve evidence for future analysis
-4. Avoid premature conclusions
-
-### Public Understanding
-
-1. Resist sensationalism
-2. Trust scientific method
-3. Evidence over speculation
-4. Cultural sensitivity important
-
----
-
-## Current Site Status
-
-### Location
-
-**Coordinates:** ~61.75°N, 59.45°E  
-**Elevation:** 1,079 meters  
-**Access:** Extremely remote, requires expedition planning
-
-### Memorial
-
-- Memorial plaque at site
-- Pass officially named "Dyatlov Pass"
-- Annual commemorations
-- Burials at Mikhailovsky Cemetery, Yekaterinburg
-
-### Visiting
-
-- Difficult access via helicopter or multi-day trek
-- Best season: June-August
-- Several guided expeditions annually
-- Few hundred visitors per year
-
-### Research
-
-- Avalanche studies
-- Snow pattern analysis
-- Climate data collection
-- Mountaineering safety education
-
----
-
-## Conclusion
-
-The Dyatlov Pass Incident has been conclusively solved. Nine experienced hikers died due to:
-
-1. A rare delayed slab avalanche
-2. Extreme cold (-25 to -30°C)
-3. Natural physiological responses to trauma and hypothermia
-4. Rational but unsuccessful survival attempts
-
-**Key Takeaways:**
-
-- **Natural explanation:** No unknowns or speculation required
-- **Science solves mysteries:** Modern technology provided answer impossible in 1959
-- **Occam's Razor:** Simplest explanation fitting evidence is correct
-- **Conspiracies distract:** Paranormal theories delayed understanding
-- **Tragedy, not mystery:** Unfortunate natural accident
-
-**Honoring the Victims:**
-
-The nine who died—Igor Dyatlov, Zinaida Kolmogorova, Rustem Slobodin, Yuri Doroshenko, Yuri Krivonischenko, Lyudmila Dubinina, Alexander Kolevatov, Nikolai Thibeaux-Brignolles, and Semyon Zolotaryov—deserve to be remembered not as a mystery, but as:
-
-- Experienced adventurers
-- Victims of a tragic natural accident
-- Case study improving mountaineering safety
-- Reminder of nature's power
-
-Yuri Yudin believed in natural causes his entire life. The 2021 science vindicated him.
-
----
-
-## Further Reading
-
-### Scientific Papers
-
-**Primary:**
-- Gaume, J., & Puzrin, A. M. (2021). "Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959." *Communications Earth & Environment*, 2(1), 10. https://doi.org/10.1038/s43247-020-00081-8
-
-**Related:**
-- McClung, D., & Schaerer, P. (2006). *The Avalanche Handbook*
-- Schweizer, J., et al. (2003). "Snow avalanche formation." *Reviews of Geophysics*
-
-### Books
-
-- Eichar, D. (2013). *Dead Mountain: The Untold True Story of the Dyatlov Pass Incident*
-- Rakitin, A. (2013). *Dyatlov Pass* [Russian]
-
-### Documentaries
-
-- "Mountain of the Dead: The Dyatlov Pass Incident" (2020)
-- "An Unknown Compelling Force" (2021)
-
-### Official Records
-
-- Soviet Investigation Case File No. 1-59 (1959)
-- Russian Prosecutor General's Office Report (2020)
-
-### Avalanche Safety
-
-- American Avalanche Association: avalanche.org
-- Canadian Avalanche Association: avalanche.ca
-
----
-
-**Document Version:** 1.0.0  
-**Last Updated:** 2026-01-14  
-**Status:** Historical Mystery - EXPLAINED  
-**Scientific Consensus:** Delayed slab avalanche (2021)
-
-**In Memory:**
-*Igor Dyatlov, Zinaida Kolmogorova, Rustem Slobodin, Yuri Doroshenko, Yuri Krivonischenko, Lyudmila Dubinina, Alexander Kolevatov, Nikolai Thibeaux-Brignolles, and Semyon Zolotaryov. Rest in peace.*
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
